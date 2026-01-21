@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет, я Денис Сидоров 👋
 
-<!--
-**Anflame/Anflame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer (React / Next.js / TypeScript)  
 
-Here are some ideas to get you started:
+🚀 Основной проект: [KnowMe](https://github.com/Anflame/know-me)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Навыки:
+- React, Next.js, TypeScript
+- SSR / SEO / React Query
+- MUI + Emotion
+- React Hook Form, Yup
+- ESLint (Airbnb), Prettier
+- Feature-oriented architecture
+
+📫 Связь:
+[Telegram](https://t.me/anflame)
